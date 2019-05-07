@@ -2,7 +2,7 @@
 ## Max Wenzel and Michael Gigiolio Project
 
 
-###Summary
+### Summary
 
 
 To begin the semester, we investigated potential paths we could take for the final project. Our initial thought was to find some way to implement a GANN, or a generated, adversarial neural network in order to not only perform some type of classification, but also to have a working output with which we could analyze the progress of our creation. As our team holds some degree of experience with natural language processing, we decided that incorporating some degree of NLP with our GANN could yield interesting results. We settled on a very classic representation of text for our processing, the works of William Shakespeare. The majority of English speakers are able to differentiate between Shakespearean English and modern English and, as a result, making a network that could distinguish between them as well would be a very interesting task. Furthermore, by creating a system that was also to generate vaguely Shakespearean text, we could also evaluate the user’s ability to recognize that form of English as well. In addition, this output would provide useful feedback on the quality of the classification system itself. 
